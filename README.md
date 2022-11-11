@@ -1,4 +1,4 @@
-# Creating a clear plate
+# Creating a clean plate
 The goal was to remove foreground/extract background from a sequence of images with moving objects on a stedy background using various image processing techniques and not relying much on ready library implementations of complex functions.
 
 - The project is experimental. 
